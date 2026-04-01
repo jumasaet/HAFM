@@ -39,4 +39,4 @@ If you find our work or the upcoming code useful for your research, please consi
   year={2026}
 }
 ```
-*Note*: The BibTeX entry will be updated with the exact page numbers once the IEEE proceedings are officially published.
+*Note: The BibTeX entry will be updated with the exact page numbers once the IEEE proceedings are officially published.*
